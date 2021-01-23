@@ -1,4 +1,8 @@
 # <h2 align="center">Hi there 👋, I'm Minion3665</h2>
+I make cool stuff on the internet.
+
+# <h2 align="center">Who am I? What do I do?</h2>
+I'm a teenaged developer who makes various projects such as discord bots using [discord.py](https://github.com/rapptz/discord.py/), games using [unity](https://unity.com/), websites using [nextjs](https://nextjs.org/), and [various](https://github.com/ClicksMinutePer/utilities) [other](https://github.com/Minion3665/forum) [random](https://github.com/Minion3665/The-token-graveyard) [projects](https://github.com/Minion3665/talk).
 
 # <h2 align="center">Contact me</h2>
 
