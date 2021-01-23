@@ -2,7 +2,7 @@
 I make cool stuff on the internet.
 
 # <h2>Who am I? What do I do?</h2>
-I'm a teenaged developer who has programmed various projects over the years. Examples are discord bots using [discord.py](https://github.com/rapptz/discord.py/), games using [unity](https://unity.com/), websites using [nextjs](https://nextjs.org/), and [other](https://github.com/Minion3665/forum) [random](https://github.com/Minion3665/The-token-graveyard) [projects](https://github.com/ClicksMinutePer/utilities).
+I'm a teenaged developer who has programmed various projects over the years. Examples are discord bots using [discord.py](https://github.com/rapptz/discord.py/), games in [unity](https://unity.com/), websites with [nextjs](https://nextjs.org/), and [other](https://github.com/Minion3665/forum) [random](https://github.com/Minion3665/The-token-graveyard) [projects](https://github.com/ClicksMinutePer/utilities).
 
 # <h2>Contact me</h2>
 
