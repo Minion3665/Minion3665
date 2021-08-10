@@ -22,4 +22,3 @@ I'm a teenaged developer who has programmed various projects over the years. Exa
 <h3>Or in Crypto</h3>
 
 [![XLM](https://img.shields.io/badge/send%20me-XLM-navy?logo=stellar&labelColor=grey&style=for-the-badge)](https://raw.githubusercontent.com/Minion3665/Minion3665/master/copies/xlm.txt)<br/>
-[![BTC](https://img.shields.io/badge/tip%20in-bitcoin-orange?logo=bitcoin&labelColor=grey&style=for-the-badge)](https://raw.githubusercontent.com/Minion3665/Minion3665/master/copies/btc.txt)
