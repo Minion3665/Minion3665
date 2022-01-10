@@ -17,7 +17,6 @@ I'm a teenaged developer who has programmed various projects over the years. Exa
 <h3>In Fiat</h3>
 
 [![PayPal](https://img.shields.io/badge/tip%20on-paypal-lightblue?logo=paypal&labelColor=grey&style=for-the-badge)](https://paypal.me/minion3665)<br/>
-[![Ko-Fi](https://img.shields.io/badge/buy%20me%20a-kofi-lightpink?logo=coffeescript&labelColor=grey&style=for-the-badge)](https://ko-fi.com/minion3665)
 
 <h3>Or in Crypto</h3>
 
