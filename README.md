@@ -16,6 +16,7 @@ I'm a teenaged developer who has programmed various projects over the years. Exa
 
 <h3>In Fiat</h3>
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Minion3665?color=hotpink&label=Sponsor%20me&logo=github&style=for-the-badge)](https://github.com/sponsors/Minion3665)  
 [![PayPal](https://img.shields.io/badge/tip%20on-paypal-lightblue?logo=paypal&labelColor=grey&style=for-the-badge)](https://paypal.me/minion3665)<br/>
 
 <h3>Or in Crypto</h3>
