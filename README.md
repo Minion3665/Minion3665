@@ -8,4 +8,4 @@ I'm a teenaged developer who has programmed various projects over the years. Exa
 
 [![Discord](https://img.shields.io/badge/message%20on%20discord-@minion3665-7289DA?logo=discord&labelColor=grey&style=for-the-badge)](https://discord.gg/bPaNnxe)<br/>
 [![Matrix](https://img.shields.io/badge/like%20encrypted%20messages%3F-Try%20matrix-0dbd8b?logo=element&labelColor=grey&style=for-the-badge)](https://matrix.to/#/@minion:clicks.codes)<br/>
-[![Email](https://img.shields.io/badge/get%20a%20slower%20response%20by-email-white?logo=minutemailer&logoColor=white&labelColor=grey&style=for-the-badge)](mailto://skyler3665@gmail.com)
+[![Email](https://img.shields.io/badge/get%20a%20slower%20response%20by-email-white?logo=minutemailer&logoColor=white&labelColor=grey&style=for-the-badge)](mailto:skyler3665@gmail.com)
